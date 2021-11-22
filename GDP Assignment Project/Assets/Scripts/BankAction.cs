@@ -39,8 +39,8 @@ public class BankAction : MonoBehaviour
         monehText.text = "$" + BankedMoney.ToString();
         textboxText.text = "You have withdrawn $" + amt.ToString() + ".";
     }
-    public float AddInterest(float total) { //call this when you proceed to the next day
-        return (BankedMoney / 100) * 10;
+    public void AddInterest(float total) { //call this when you proceed to the next day
+        BankedMoney += (BankedMoney / 100) * 10;
     }
     public void Deposit() {
         depositPopoutText.text = "you have $" + BankedMoney + ".\nHow much do you want to deposit?";

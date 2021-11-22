@@ -53,14 +53,14 @@
     <UnityVersion>2020.3.21f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Phone.cs" />
     <Compile Include="Assets\Scripts\ActionManager.cs" />
     <Compile Include="Assets\Scripts\BankAction.cs" />
-    <Compile Include="Assets\Scripts\PlayerData.cs" />
-    <Compile Include="Assets\Scripts\Computer.cs" />
-    <Compile Include="Assets\Scripts\Phone.cs" />
     <Compile Include="Assets\Scripts\Door.cs" />
     <Compile Include="Assets\Scripts\Bed.cs" />
+    <Compile Include="Assets\Scripts\PlayerData.cs" />
     <Compile Include="Assets\Scripts\Fade.cs" />
+    <Compile Include="Assets\Scripts\Computer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

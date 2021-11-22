@@ -50,14 +50,14 @@ public class Bed : MonoBehaviour
         fadeNow = true;
         PlayerData.Instance.Energy = 100;
         PlayerData.Instance.Hunger -= hungerLoss;
-        PlayerData.Instance.day += 1;
+        PlayerData.Instance.Day += 1;
 
         //checking values
         Debug.Log("Energy is " + PlayerData.Instance.Energy);
         Debug.Log("Happinesss is " + PlayerData.Instance.Happiness);
         Debug.Log("Money is " + PlayerData.Instance.Money);
         Debug.Log("Hunger is " + PlayerData.Instance.Hunger);
-        Debug.Log("Day " + PlayerData.Instance.day);
+        Debug.Log("Day " + PlayerData.Instance.Day);
         BedDisappear();
     }
 }
