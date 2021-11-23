@@ -19,7 +19,7 @@ public class BankAction : MonoBehaviour
         float amt = 0;
         try { amt = float.Parse(depositAmount.text); }
         catch(Exception e) {
-            Debug.Log("User entered a non integer/float value into " + depositAmount);
+            Debug.Log("User entered a non integer/float value into " + depositAmount + "\n" + e);
             return;
         }
         PlayerData.Instance.Money -= amt;
@@ -31,7 +31,7 @@ public class BankAction : MonoBehaviour
         float amt = 0;
         try { amt = float.Parse(withdrawAmount.text); }
         catch (Exception e) {
-            Debug.Log("User entered a non integer/float value into " + withdrawAmount);
+            Debug.Log("User entered a non integer/float value into " + withdrawAmount + "\n" + e);
             return;
         }
         BankedMoney -= amt;
