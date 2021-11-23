@@ -159,8 +159,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 200, y: 242}
-  m_SizeDelta: {x: 514, y: 30}
+  m_AnchoredPosition: {x: 200, y: 229.38}
+  m_SizeDelta: {x: 469, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &297238058
 MonoBehaviour:
@@ -234,8 +234,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000030518, y: 0}
-  m_SizeDelta: {x: 914, y: 514}
+  m_AnchoredPosition: {x: 0, y: -0.0025001}
+  m_SizeDelta: {x: 869, y: 488.76}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &314698333
 MonoBehaviour:
@@ -693,7 +693,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 125, y: 197.00002}
+  m_AnchoredPosition: {x: 125, y: 184.38002}
   m_SizeDelta: {x: 304, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &494797500
@@ -1093,8 +1093,8 @@ MonoBehaviour:
   Energy: 0
   Hunger: 0
   Happiness: 0
-  day: 0
-  name: PlayerNameNotFound
+  Day: 0
+  Name: PlayerNameNotFound
 --- !u!4 &813024154
 Transform:
   m_ObjectHideFlags: 0
@@ -1331,7 +1331,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 382, y: 197}
+  m_AnchoredPosition: {x: 359.5, y: 184.38}
   m_SizeDelta: {x: 150, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &995231891
@@ -1481,7 +1481,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -196.9532, y: 0}
+  m_AnchoredPosition: {x: -174.5, y: 0}
   m_SizeDelta: {x: 120, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1030198918
@@ -1641,7 +1641,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -356.99997, y: -157}
+  m_AnchoredPosition: {x: -334.5, y: -144.38}
   m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1080972927
@@ -1932,7 +1932,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 357, y: -157}
+  m_AnchoredPosition: {x: 334.5, y: -144.38}
   m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1213310660
@@ -2065,7 +2065,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -119, y: -157}
+  m_AnchoredPosition: {x: -111.5, y: -144.38}
   m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1262887295
@@ -2323,8 +2323,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 60.03, y: 0}
-  m_SizeDelta: {x: 380, y: 20}
+  m_AnchoredPosition: {x: 59.998993, y: 0}
+  m_SizeDelta: {x: 339, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1422128499
 MonoBehaviour:
@@ -3353,7 +3353,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 119, y: -157}
+  m_AnchoredPosition: {x: 111.5, y: -144.38}
   m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2086524618
@@ -3573,7 +3573,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -257, y: 197.00002}
+  m_AnchoredPosition: {x: -234.5, y: 184.38}
   m_SizeDelta: {x: 400, y: 120}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2124269927
@@ -3648,6 +3648,7 @@ MonoBehaviour:
   Energy: {fileID: 2060209017}
   Hunger: {fileID: 1951869494}
   Happiness: {fileID: 1399522252}
+  ProgressBar: {fileID: 0}
 --- !u!4 &2131085649
 Transform:
   m_ObjectHideFlags: 0
